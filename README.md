@@ -5,7 +5,7 @@
 
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
-1-Login with "exam" and password "exam" at the login screen <br/>
+1-Login with "exam" and Password "exam" at the login screen <br/>
 2-Open a terminal and Type examshell in a terminal to begin <br />
 3-after that type your username and your password after the prompt  <br /> 
 ### **During the exam** <br />
