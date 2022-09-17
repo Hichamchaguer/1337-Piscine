@@ -1,9 +1,7 @@
 # 1337
- My solutions for the June Piscine 2021. <br />
+ My solutions for the july Piscine 2022. <br />
   Please open an issue on github if you find anything incorrect.<br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
- `Don't Copy, Learn.` <br />
- ![](https://komarev.com/ghpvc/?username=your-github-username&label=Repository+views)
 
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
